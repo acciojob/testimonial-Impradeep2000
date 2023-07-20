@@ -1,1 +1,22 @@
-/*  your css code here. If applicable */
+*{
+background-color:#f5f5f5;
+margin-left: 20px;
+}
+.div{
+    padding-top: 20px;
+    box-shadow: 100cap;
+    padding: left 20px;
+    background-color: white;
+    height: 100px;
+    width: 95%;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    border: 2px solid black;
+}
+.para{
+    background-color: white;
+}
+.name{
+    text-align: right;
+    background-color: white
+}
